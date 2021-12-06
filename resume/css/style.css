@@ -1,0 +1,106 @@
+body{
+  text-align:center;
+  background-color:white;
+}
+.name{
+  font-family: 'Meow Script', cursive;
+  font-size:100px;
+  color:red;
+}
+.job{
+  font-family: 'Meow Script', cursive;
+  font-size:40px;
+  color:red;
+}
+.imgcloud{
+  height:15%;
+  width:15%;
+  margin-left:60%;
+}
+.imgsun{
+  height:15%;
+  width:15%;
+  margin-right:60%;
+}
+.imgmo{
+  height:40%;
+  width:40%;
+}
+.me{
+  height:15%;
+  width:15%;
+  border-radius:50%;
+}
+.about{
+  font-family: 'Meow Script', cursive;
+  font-size: 30px;
+  color: black;
+}
+.skill-row{
+  width: 80%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row img{
+  width: 25%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.skill-row p{
+  font-size:25px;
+}
+.skill-row h3{
+  font-size:25px;
+  color:red;
+}
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
+
+.abcd{
+  text-align: center;
+  width: 50%;
+  margin-left:25%;
+  font-size: 30px;
+}
+
+.button{
+  border: 40%;
+  color: white;
+  background-color: black;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.links{
+  background-color:black;
+  text-align: center;
+  padding: 4px;
+  background-color: DarkSalmon;
+  color: white;
+}
+.footer{
+  margin-top: 60px;
+  background-color:#FF7F50;
+  padding: 50px 0 200px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.footer a{
+  text-decoration: none;
+  font-size: 30px;
+  color: 	#F0F8FF;
+  font-family: 'Nunito', sans-serif;
+  margin: 10px 20px;
+}
